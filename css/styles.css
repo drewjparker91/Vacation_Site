@@ -5,6 +5,10 @@ body {
   font-weight: bolder;
 }
 
-.h4 {
+.reviews {
   color: white;
+}
+
+h1 {
+  text-align: center;
 }
